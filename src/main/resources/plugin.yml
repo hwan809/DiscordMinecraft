@@ -1,0 +1,6 @@
+name: DiscordMinecraftTool
+version: '${project.version}'
+main: me.vivace.discord.Main
+authors: [ vivace ]
+depend: [ JDA ]
+description: link discord server to minecraft
